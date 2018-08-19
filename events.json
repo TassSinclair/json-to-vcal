@@ -1,0 +1,23 @@
+[
+    {
+        "start_time": "08:30:00",
+        "sessions": [
+            {
+                "id": 2,
+                "title": "Keynote: Insights from Leadership",
+                "start_time": "08:30:00",
+                "room": "Grand Ballroom",
+                "length": 60,
+                "organisers": [
+                    1,
+                    2
+                ],
+                "summary": "A description of the talk",
+                "short_summary": "A summary of the talk",
+                "tags": "",
+                "mandatory": true,
+                "type": "session"
+            }
+        ]
+    }
+]
